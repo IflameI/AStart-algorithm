@@ -4,4 +4,4 @@
 
 DEMO : https://iflamei.github.io/AStart-algorithm/
 
-![Image of project](hhttps://github.com/IflameI/AStart-algorithm/blob/main/Screenshot_1.png)
+![Image of project](https://github.com/IflameI/AStart-algorithm/blob/main/Screenshot_1.png)
